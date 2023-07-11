@@ -5,7 +5,7 @@ import { urlFor } from "../lib/client";
 import Link from "next/link";
 
 interface IProps {
-    product: IProduct;
+    product: any;
 }
 
 const Product = ({ product: { image, name, slug, price } }: IProps) => {
