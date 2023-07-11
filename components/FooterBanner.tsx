@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React from "react";
 import { IFooterBanner } from "../types/footerBanner";
 import Link from "next/link";

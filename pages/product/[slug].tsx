@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React, { useState } from "react";
 import { urlFor, client } from "../../lib/client";
 import { GetStaticProps, InferGetStaticPropsType } from "next";
